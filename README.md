@@ -8,7 +8,6 @@ The application allows users to add a budget, add expenses, remove expenses, and
 
 ## 📸 Project Preview
 
-> 📷 Attach the project screenshot below.
 
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/c47d334e-cf7c-4ac1-ba2b-1ce24d277e72" />
 
